@@ -1,7 +1,5 @@
 // ignore_for_file: prefer_const_constructors
 
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 
 class MyContador extends StatefulWidget {
